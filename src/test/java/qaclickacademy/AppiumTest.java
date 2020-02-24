@@ -14,5 +14,11 @@ public class AppiumTest {
 		System.out.println("IOapps");
 
 	}
+	@Test
+	public void IOapps1()
+	{
+		System.out.println("IOapps1");
+
+	}
 
 }
